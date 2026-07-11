@@ -1,0 +1,23 @@
+OrgaRetro - Licence d'utilisation
+==================================
+
+Copyright (c) 2026
+
+OrgaRetro est un logiciel gratuit (freeware).
+
+Vous etes autorise a :
+  - utiliser le programme gratuitement, a titre personnel ;
+  - le partager et le redistribuer tel quel, sans modification, gratuitement.
+
+Vous n'etes PAS autorise a :
+  - vendre le programme ou le faire payer ;
+  - vous en attribuer la paternite.
+
+AUCUNE GARANTIE
+---------------
+Le programme est fourni "tel quel", sans aucune garantie d'aucune sorte, expresse
+ou implicite. L'auteur ne pourra etre tenu responsable de tout dommage, perte de
+donnees, ou consequence (y compris toute sanction sur un compte de jeu) resultant
+de l'utilisation de ce programme. Vous l'utilisez a vos propres risques.
+
+OrgaRetro n'est pas affilie a Ankama. "Dofus" est une marque deposee d'Ankama.
