@@ -23,6 +23,8 @@ Navigue et organise tes fenêtres multi-comptes en un clin d'œil.
 - 🎯 **Raccourci direct par personnage** avec **capture automatique de la touche**
 - ✅ **Activation/désactivation** de chaque fenêtre dans le cycle (case à cocher)
 - 🟢 **Bouton ON/OFF global** pour couper tous les raccourcis d'un coup
+- 🏷️ **Forçage des titres** : renomme les fenêtres avec le nom du personnage
+  (pour les différencier dans la barre des tâches / Alt+Tab)
 - 💾 Sauvegarde de la configuration
 - 🖱️ Icône dans la barre système (tray)
 
@@ -55,6 +57,9 @@ Navigue et organise tes fenêtres multi-comptes en un clin d'œil.
 
 Le bouton **Raccourcis : ON/OFF** coupe ou réactive tous les raccourcis (pratique
 pour taper normalement en jeu).
+
+Le bouton **Titres : libres / forcés** (en haut à droite) renomme les fenêtres
+avec le nom de chaque personnage, pour les reconnaître facilement.
 
 ## ⚖️ Avertissement
 
