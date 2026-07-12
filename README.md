@@ -47,20 +47,18 @@ OrgaRetro/
 
 1. Ouvre tes fenêtres Dofus Retro.
 2. Clique sur **Rafraîchir / Trier**.
-3. Pour chaque personnage :
-   - **Renommer** — donne-lui un nom lisible
+3. Pour chaque personnage, **double-clic sur une case** pour la modifier :
+   - **Nom** (1ʳᵉ colonne) — donne-lui un nom lisible
    - **Initiative** — la liste se trie automatiquement (la plus haute en premier)
-   - **Raccourci** — clique le bouton puis **appuie sur la touche** (détection auto)
+   - **Raccourci** — puis **appuie sur la touche** (détection auto). Clic droit = retirer.
    - **Case cochée** — incluse dans le cycle
-4. **Double-clic** sur une ligne = amener cette fenêtre au premier plan.
-5. **Enregistrer** pour conserver ta configuration.
+4. **Enregistrer** pour conserver ta configuration.
 
-### Raccourcis par défaut
+### Raccourcis de navigation
 
-| Action | Touche |
-|--------|--------|
-| Fenêtre précédente | `Alt + ←` |
-| Fenêtre suivante | `Alt + →` |
+Les boutons **⬅ / ➡** en bas assignent les touches pour passer à la fenêtre
+**précédente / suivante** (clique le bouton puis appuie sur la touche voulue).
+Par défaut : `Alt + ←` / `Alt + →`.
 
 Le bouton **Raccourcis : ON/OFF** coupe ou réactive tous les raccourcis (pratique
 pour taper normalement en jeu).
