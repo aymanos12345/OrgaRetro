@@ -21,17 +21,24 @@ Navigue et organise tes fenêtres multi-comptes en un clin d'œil.
 - 🔃 **Tri par initiative** — l'ordre du cycle suit l'initiative de tes personnages
 - ⌨️ **Cycle précédent / suivant** entre les fenêtres (raccourcis globaux)
 - 🎯 **Raccourci direct par personnage** avec **capture automatique de la touche**
-- ✅ **Activation/désactivation** de chaque fenêtre dans le cycle (case à cocher)
+- 🎴 **Dock (barre de navigation)** : avatars de classe cliquables, 8 positions à l'écran
 - 🟢 **Bouton ON/OFF global** pour couper tous les raccourcis d'un coup
-- 🏷️ **Forçage des titres** : renomme les fenêtres avec le nom du personnage
-  (pour les différencier dans la barre des tâches / Alt+Tab)
-- 💾 Sauvegarde de la configuration
+- 🏷️ **Forçage des titres** : renomme les fenêtres (config conservée à la reconnexion)
+- 🌍 **3 langues** : Français / English / Español
+- 🎨 Interface sombre avec **barre de titre personnalisée**
 - 🖱️ Icône dans la barre système (tray)
 
 ## 📥 Installation
 
-1. Télécharge **`OrgaRetro.exe`** (voir l'onglet *Releases* ou le fichier ci-dessus).
-2. Double-clique dessus. **Aucune installation requise** — c'est un programme autonome.
+1. Télécharge le programme (voir l'onglet *Releases*) : **`OrgaRetro.exe`** **et le dossier `ico`**.
+2. Garde-les **ensemble** dans le même dossier (le dossier `ico` contient les avatars de classe).
+3. Double-clique sur `OrgaRetro.exe`. **Aucune installation requise** — programme autonome.
+
+```
+OrgaRetro/
+├── OrgaRetro.exe
+└── ico/           ← les avatars de classe (à garder à côté de l'exe)
+```
 
 > ⚠️ Windows SmartScreen peut afficher un avertissement car l'exe n'est pas signé.
 > Clique sur *Informations complémentaires → Exécuter quand même*.
@@ -60,6 +67,18 @@ pour taper normalement en jeu).
 
 Le bouton **Titres : libres / forcés** (en haut à droite) renomme les fenêtres
 avec le nom de chaque personnage, pour les reconnaître facilement.
+
+### 🎴 Dock (barre de navigation)
+
+Le bouton **⚙** dans la barre de titre (ou l'icône du tray) → **Barre de navigation**
+→ choisis une position. Une barre flottante d'avatars apparaît :
+
+- **Clic sur un avatar** → sa fenêtre passe au premier plan
+- **Clic droit sur un avatar** → choisir la **classe** du personnage (Iop, Crâ, Féca…)
+
+### 🌍 Langue
+
+Bouton **⚙** → **Langue** → Français / English / Español (redémarre pour appliquer).
 
 ## ⚖️ Avertissement
 
